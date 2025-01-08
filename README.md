@@ -1,3 +1,5 @@
+All done by cursor.com O_o
+
 Run in terminal:
 
 ```docker
