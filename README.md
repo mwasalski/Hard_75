@@ -1,4 +1,4 @@
-All done by cursor.com O_o
+all done by cursor.com O_o
 
 Run in terminal:
 
