@@ -1,1 +1,6 @@
-# Hard_75
+Run in terminal:
+
+```docker
+docker build -t 75hard-tracker .
+docker run -p 1234:8501 -p 8000:8000 75hard-tracker
+``` 
